@@ -1,0 +1,4 @@
+#Fri Feb 07 10:08:16 IST 2025
+base.0=C\:\\Users\\412608\\Desktop\\similaproject\\flutterexam\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
